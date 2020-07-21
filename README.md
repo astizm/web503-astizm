@@ -11,7 +11,7 @@ Remember ... the main skill you are learning is problem solving
 
 
 - [x] Create GitPage repo
-- [ ] Lab 1
+ [ ] Lab 1
 - [ ] Journal
 - [ ] Lab 2
 - [ ] Journal
