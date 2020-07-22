@@ -2,17 +2,9 @@
 
 Remember ... the main skill you are learning is problem solving
 
-
-|Task   	|Notes   	|Due   	|   	
-|---	|---	|---	|---		
-|Journals/Labs   	|   	|30/10   	  |
-|Assessment 2   	|   	|~27/09   	|
-|Assessment 3   	|   	|~22/11  	  |   	   	
-
-
 - [x] Create GitPage repo
- [ ] Lab 1
-[ ] Journal
+- [ ] Lab 1
+- [ ] Journal
 - [ ] Lab 2
 - [ ] Journal
 - [ ] Lab 3
@@ -33,5 +25,14 @@ Remember ... the main skill you are learning is problem solving
 - [ ] Journal
 - [ ] Assessment Two
 - [ ] Assessment Three
+
+|Task   	|Notes   	|Due   	|   	
+|---	|---	|---	|---		
+|Journals/Labs   	|   	|30/10   	  |
+|Assessment 2   	|   	|~27/09   	|
+|Assessment 3   	|   	|~22/11  	  |   	   	
+
+
+
 
 [Complete Outline](https://ecampus.nmit.ac.nz/moodle/mod/resource/view.php?id=976020)
